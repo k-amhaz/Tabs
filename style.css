@@ -33,6 +33,7 @@ li {
   border: solid rgb(170, 168, 168) 1px;
   color: rgb(155, 139, 139);
   background: rgb(214, 214, 214);
+  cursor: pointer;
 }
 li.active {
   color: rgb(33, 207, 207);
